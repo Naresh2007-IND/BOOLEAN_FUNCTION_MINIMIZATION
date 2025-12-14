@@ -39,10 +39,13 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![boolean waves](https://github.com/user-attachments/assets/8e45e0f4-8c81-4286-94e9-7adce10dc9ac)
 
 **Output:**
 
 **RTL**
+![booklean dia1](https://github.com/user-attachments/assets/cd6e9bdb-dace-43ed-a8b2-b34a136cc622)
+![boolkean dia 2](https://github.com/user-attachments/assets/1941d57e-f217-4cb9-8de8-50fb490bc114)
 
 **Timing Diagram**
 
